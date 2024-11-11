@@ -1,9 +1,9 @@
 
-# Solutions - Projet Capstone Data Science
+# Detection of Biases in Film Reviews
 
 ## Présentation
 
-Ce projet explore les biais potentiels dans les évaluations de films affichées par Fandango, en se basant sur un article du site 538. L'objectif est de déterminer si les notes affichées par Fandango en 2015 étaient biaisées en faveur d'une meilleure évaluation pour augmenter les ventes de billets.
+Ce projet explore les biais potentiels dans les évaluations de films affichées par Fandango, en se basant sur un article du site 538 https://fivethirtyeight.com/features/fandango-movies-ratings/. L'objectif est de déterminer si les notes affichées par Fandango en 2015 étaient biaisées en faveur d'une meilleure évaluation pour augmenter les ventes de billets.
 
 ## Objectif
 
@@ -33,10 +33,9 @@ Les bibliothèques Python suivantes sont nécessaires pour exécuter le projet :
 
 ## Utilisation
 
-1. Clonez le dépôt : `git clone https://github.com/votre-utilisateur/Solutions-Projet-Capstone-Data-Science.git`
-2. Accédez au répertoire du projet : `cd Solutions-Projet-Capstone-Data-Science`
-3. Installez les dépendances nécessaires en exécutant : `pip install -r requirements.txt`
-4. Lancez les analyses en exécutant chaque section du notebook.
+1. Clonez le dépôt : `git clone https://github.com/PRISCILLE7/Detection_of_Biases_in_Film_Reviews.git`
+2. Accédez au répertoire du projet 
+3. Lancez les analyses en exécutant chaque section du notebook.
 
 ## Conclusion
 
